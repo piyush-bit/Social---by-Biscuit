@@ -151,7 +151,7 @@ function ProfileCard() {
 
              
         })}
-        <div className="absolute bottom-0 flex gap-4 z-20 justify-between items-center w-full px-4">
+        <div className="absolute bottom-0 hidden gap-4 z-20 justify-between items-center w-full px-4 ">
           <div className="h-16 w-16 border-2 border-yellow-400 rounded-full flex items-center justify-center">
             {/* <img className='invert h-12' src="https://cdn-icons-png.flaticon.com/128/6415/6415704.png" alt="" /> */}
           </div>
